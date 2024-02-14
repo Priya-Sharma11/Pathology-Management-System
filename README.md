@@ -31,6 +31,5 @@ Clone the Repository:
 - git clone https://github.com/your-username/pathology-management-system.git
 
 
-Here are some images from the project
 
 
