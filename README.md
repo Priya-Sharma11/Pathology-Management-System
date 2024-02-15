@@ -30,6 +30,21 @@ This repository contains the source code for a Pathology Management System devel
 Clone the Repository:
 - git clone https://github.com/your-username/pathology-management-system.git
 
+# OUTPUTS
+![login image](https://github.com/Priya-Sharma11/Pathology-Management-System/assets/83345365/fdd8ead3-ed1b-4c43-860e-941db83ac50f)
+
+![3](https://github.com/Priya-Sharma11/Pathology-Management-System/assets/83345365/f3758627-8511-48a6-b94b-1fe3cbb4d7e0)
+
+![5](https://github.com/Priya-Sharma11/Pathology-Management-System/assets/83345365/60592a11-76e2-4e0f-8f63-e60ac0cbd74a)
+
+![6](https://github.com/Priya-Sharma11/Pathology-Management-System/assets/83345365/ce6b0fcc-7e5e-45f9-840b-b31eefbdbdfd)
+
+![8](https://github.com/Priya-Sharma11/Pathology-Management-System/assets/83345365/b8bfd429-efa2-4114-bc57-d35bfc81a351)
+
+
+
+
+
 
 
 
